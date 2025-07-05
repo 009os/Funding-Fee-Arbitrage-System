@@ -1,1 +1,2 @@
 # Funding-Fee-Arbitrage-System
+Designed and developed a high-performance arbitrage trading system to exploit funding rate differences across crypto exchanges like Binance, Bybit, and OKX. The system automates position management, price monitoring, and order execution with real-time WebSocket feeds, REST APIs, and delta-neutral strategies. Built with a modular NestJS architecture for scalability and future frontend integration.
