@@ -82,7 +82,6 @@ Funding-Fee-Arbitrage-System/
 ## Contributing
 
 Contributions are welcome! To contribute:
-
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix.
 3. Commit and push your changes.
